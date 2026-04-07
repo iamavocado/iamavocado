@@ -8,7 +8,7 @@ I am a biologist and software developer based in Panama. I combine my scientific
 
 I am focused on developing my skills in:
 - Full-Stack Web and Mobile Applications
-- Business Management & Billing Solutions
+- Business Management Solutions
 - Scientific Research and Data Analysis
 
 ## 🚀 Background
@@ -17,14 +17,15 @@ My journey is a blend of science and technology. My background in biology has gi
 Alongside my scientific pursuits, I have channeled my passion for technology into software development. I have learned to build robust applications from scratch, manage databases, and optimize architectures on both the client and server sides.
 
 ## 🎯 Current Focus
-- **Software Engineering:** Architecting and developing comprehensive business management tools, specifically Point of Sale (POS) and billing systems tailored to local tax regulations.
+- **Software Engineering:** Architecting and developing cross-platform mobile applications and responsive web pages. 
 - **Scientific Research:** Working on my biology thesis, which focuses on the bioremediation of industrial wastewater (tanneries and vinasse) using native polypore fungal strains.
 
 ## 📌 Experience & Projects
-### 📱 Business & POS Solutions
-Designing and developing scalable Point of Sale and billing applications intended for the Panamanian market.
-- **Focus:** Scalable architecture, seamless user experience, and reliable offline-first database synchronization.
-- **Tech Stack:** React Native, Expo, NestJS, SQLite, SQL Server.
+### 💻 Mobile Applications & Web Development
+Designing and building versatile mobile applications and responsive websites. 
+- **Mobile Solutions:** Developing robust cross-platform mobile apps. A notable example is the creation of a mobile POS terminal device for the Panamanian market, built with a focus on seamless user experience and reliable offline-first database synchronization.
+- **Web Development:** Creating functional, responsive web pages and user-friendly web interfaces.
+- **Tech Stack:** React, React Native, Expo, NestJS, SQLite, SQL Server.
 
 ### 🔬 Bioremediation Research
 Applied study on treating industrial effluents utilizing the degradative capacity of species like *Cerrena hydnoides*.
@@ -66,7 +67,7 @@ Balance is essential. When I am not writing code, modeling data in R, or working
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamavocado&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=333333" alt="Derec's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamavocado&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=333333" alt="iamavocado's GitHub Stats" />
 </div>
 
 ---
