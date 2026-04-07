@@ -67,7 +67,7 @@ Balance is essential. When I am not writing code, modeling data in R, or working
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamavocado&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=333333" alt="iamavocado's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamavocado&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=333333" alt="iamavocado's stats" />
 </div>
 
 ---
