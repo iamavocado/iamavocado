@@ -83,4 +83,7 @@ Balance is essential. When I am not writing code, modeling data in R, or working
   <a href="https://github.com/iamavocado">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://www.instagram.com/dereck__20">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
