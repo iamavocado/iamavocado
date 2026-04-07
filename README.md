@@ -24,7 +24,7 @@ Alongside my scientific pursuits, I have channeled my passion for technology int
 ### 📱 Business & POS Solutions
 Designing and developing scalable Point of Sale and billing applications intended for the Panamanian market.
 - **Focus:** Scalable architecture, seamless user experience, and reliable offline-first database synchronization.
-- **Tech Stack:** React Native, Expo, NestJS, SQLite.
+- **Tech Stack:** React Native, Expo, NestJS, SQLite, SQL Server.
 
 ### 🔬 Bioremediation Research
 Applied study on treating industrial effluents utilizing the degradative capacity of species like *Cerrena hydnoides*.
@@ -43,14 +43,20 @@ Applied study on treating industrial effluents utilizing the degradative capacit
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
   <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />
 </p>
 
 **Backend & Databases**
 <p>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+**Tools & Version Control**
+<p>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
 ## ⚡ Beyond the Code
@@ -62,3 +68,15 @@ Balance is essential. When I am not writing code, modeling data in R, or working
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iamavocado&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=333333" alt="Derec's GitHub Stats" />
 </div>
+
+---
+
+## 🌐 Contact
+<p>
+  <a href="mailto:dereckperez2090@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/iamavocado">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
