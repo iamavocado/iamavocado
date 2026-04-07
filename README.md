@@ -66,7 +66,7 @@ Balance is essential. When I am not writing code, modeling data in R, or working
 ---
 
 ## 📊 GitHub Stats
-![Mis Estadísticas](https://github-readme-stats.vercel.app/api?username=iamavocado&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=333333)
+![Estadísticas de Derec](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamavocado&theme=transparent)
 
 ---
 
